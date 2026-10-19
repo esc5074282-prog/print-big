@@ -1,0 +1,8 @@
+{
+  "appId": "com.chekhoff.print",
+  "appName": "Chekhoff Print",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
